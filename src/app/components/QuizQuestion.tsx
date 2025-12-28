@@ -5,8 +5,9 @@ import { Button } from './ui/button';
 import { RadioGroup, RadioGroupItem } from './ui/radio-group';
 import { Label } from './ui/label';
 import { Badge } from './ui/badge';
-import { ArrowLeft, ArrowRight, Loader2, CheckCircle } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 import { toast } from 'sonner';
+import { Progress } from './ui/progress';
 
 interface QuizQuestion {
   id: string;

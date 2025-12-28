@@ -5,7 +5,7 @@ import { Button } from './ui/button';
 import { RadioGroup, RadioGroupItem } from './ui/radio-group';
 import { Label } from './ui/label';
 import { Badge } from './ui/badge';
-import { ArrowLeft, Loader2 } from 'lucide-react';
+import { ArrowLeft, Loader2, CheckCircle, Lock } from 'lucide-react';
 import { toast } from 'sonner';
 import { Progress } from './ui/progress';
 

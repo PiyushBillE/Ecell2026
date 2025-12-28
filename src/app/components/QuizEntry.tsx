@@ -3,7 +3,7 @@ import { supabase } from '../../lib/supabase';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from './ui/card';
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
-import { ArrowLeft, Loader2, CheckCircle } from 'lucide-react';
+import { ArrowLeft, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 import { QuizQuestion } from './QuizQuestion';
 import { toast } from 'sonner';
 
